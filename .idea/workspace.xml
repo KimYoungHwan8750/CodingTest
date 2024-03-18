@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29371fb1-4dda-4083-be40-3d11f9aae843" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    <list default="true" id="29371fb1-4dda-4083-be40-3d11f9aae843" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/BaekJoon/10798.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaekJoon/11021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaekJoon/11022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaekJoon/1874_수택 수열.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaekJoon/2566.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JoonLab/1074.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,11 +41,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.1074.executor": "Run",
+    "Python.10798.executor": "Run",
+    "Python.11021.executor": "Run",
+    "Python.11022.executor": "Run",
     "Python.24264.executor": "Run",
     "Python.24265.executor": "Run",
     "Python.24266.executor": "Run",
     "Python.24267.executor": "Run",
+    "Python.2566.executor": "Run",
     "Python.test.executor": "Run",
+    "Python.ㅅㄷㄴㅅ.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -62,6 +74,15 @@
       <option name="presentableId" value="Default" />
       <updated>1709788955254</updated>
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <option name="closed" value="true" />
+      <created>1709883337327</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709883337327</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -74,5 +95,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
